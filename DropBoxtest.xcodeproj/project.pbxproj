@@ -7,6 +7,9 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		E28FCAD51D9996A000A17875 /* SettingScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28FCAD41D9996A000A17875 /* SettingScrollViewController.swift */; };
+		E28FCAD71D99A0A300A17875 /* SingInSettingScrollViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28FCAD61D99A0A300A17875 /* SingInSettingScrollViewController.swift */; };
+		E28FCADB1D99F5E400A17875 /* termsViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E28FCADA1D99F5E400A17875 /* termsViewController.swift */; };
 		E2DDE3FA1D98C9570084D6B8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DDE3F91D98C9570084D6B8 /* AppDelegate.swift */; };
 		E2DDE3FC1D98C9570084D6B8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DDE3FB1D98C9570084D6B8 /* ViewController.swift */; };
 		E2DDE3FF1D98C9570084D6B8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2DDE3FD1D98C9570084D6B8 /* Main.storyboard */; };
@@ -14,6 +17,11 @@
 		E2DDE4041D98C9570084D6B8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = E2DDE4021D98C9570084D6B8 /* LaunchScreen.storyboard */; };
 		E2DDE40F1D98C9570084D6B8 /* DropBoxtestTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DDE40E1D98C9570084D6B8 /* DropBoxtestTests.swift */; };
 		E2DDE41A1D98C9570084D6B8 /* DropBoxtestUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DDE4191D98C9570084D6B8 /* DropBoxtestUITests.swift */; };
+		E2DDE4281D98D9420084D6B8 /* WelcomethreeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DDE4271D98D9420084D6B8 /* WelcomethreeViewController.swift */; };
+		E2DDE42A1D98D97F0084D6B8 /* CreateAccountRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DDE4291D98D97F0084D6B8 /* CreateAccountRootViewController.swift */; };
+		E2DDE42C1D98D9B80084D6B8 /* CreatAccountViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DDE42B1D98D9B80084D6B8 /* CreatAccountViewController.swift */; };
+		E2DDE42E1D98D9E30084D6B8 /* SignInRootViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DDE42D1D98D9E30084D6B8 /* SignInRootViewController.swift */; };
+		E2DDE4301D98DA2B0084D6B8 /* SignInViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = E2DDE42F1D98DA2B0084D6B8 /* SignInViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,6 +42,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		E28FCAD41D9996A000A17875 /* SettingScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SettingScrollViewController.swift; path = ../SettingScrollViewController.swift; sourceTree = "<group>"; };
+		E28FCAD61D99A0A300A17875 /* SingInSettingScrollViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SingInSettingScrollViewController.swift; sourceTree = "<group>"; };
+		E28FCADA1D99F5E400A17875 /* termsViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = termsViewController.swift; sourceTree = "<group>"; };
 		E2DDE3F61D98C9570084D6B8 /* DropBoxtest.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DropBoxtest.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2DDE3F91D98C9570084D6B8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		E2DDE3FB1D98C9570084D6B8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -47,6 +58,11 @@
 		E2DDE4151D98C9570084D6B8 /* DropBoxtestUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DropBoxtestUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		E2DDE4191D98C9570084D6B8 /* DropBoxtestUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DropBoxtestUITests.swift; sourceTree = "<group>"; };
 		E2DDE41B1D98C9570084D6B8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E2DDE4271D98D9420084D6B8 /* WelcomethreeViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = WelcomethreeViewController.swift; sourceTree = "<group>"; };
+		E2DDE4291D98D97F0084D6B8 /* CreateAccountRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreateAccountRootViewController.swift; sourceTree = "<group>"; };
+		E2DDE42B1D98D9B80084D6B8 /* CreatAccountViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = CreatAccountViewController.swift; sourceTree = "<group>"; };
+		E2DDE42D1D98D9E30084D6B8 /* SignInRootViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInRootViewController.swift; sourceTree = "<group>"; };
+		E2DDE42F1D98DA2B0084D6B8 /* SignInViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SignInViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +116,14 @@
 				E2DDE3F91D98C9570084D6B8 /* AppDelegate.swift */,
 				E2DDE3FB1D98C9570084D6B8 /* ViewController.swift */,
 				E2DDE3FD1D98C9570084D6B8 /* Main.storyboard */,
+				E28FCADA1D99F5E400A17875 /* termsViewController.swift */,
+				E28FCAD61D99A0A300A17875 /* SingInSettingScrollViewController.swift */,
+				E28FCAD41D9996A000A17875 /* SettingScrollViewController.swift */,
+				E2DDE42F1D98DA2B0084D6B8 /* SignInViewController.swift */,
+				E2DDE42D1D98D9E30084D6B8 /* SignInRootViewController.swift */,
+				E2DDE42B1D98D9B80084D6B8 /* CreatAccountViewController.swift */,
+				E2DDE4291D98D97F0084D6B8 /* CreateAccountRootViewController.swift */,
+				E2DDE4271D98D9420084D6B8 /* WelcomethreeViewController.swift */,
 				E2DDE4001D98C9570084D6B8 /* Assets.xcassets */,
 				E2DDE4021D98C9570084D6B8 /* LaunchScreen.storyboard */,
 				E2DDE4051D98C9570084D6B8 /* Info.plist */,
@@ -259,8 +283,16 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E28FCAD51D9996A000A17875 /* SettingScrollViewController.swift in Sources */,
+				E28FCADB1D99F5E400A17875 /* termsViewController.swift in Sources */,
+				E2DDE4301D98DA2B0084D6B8 /* SignInViewController.swift in Sources */,
+				E2DDE42A1D98D97F0084D6B8 /* CreateAccountRootViewController.swift in Sources */,
+				E2DDE42C1D98D9B80084D6B8 /* CreatAccountViewController.swift in Sources */,
+				E2DDE42E1D98D9E30084D6B8 /* SignInRootViewController.swift in Sources */,
+				E2DDE4281D98D9420084D6B8 /* WelcomethreeViewController.swift in Sources */,
 				E2DDE3FC1D98C9570084D6B8 /* ViewController.swift in Sources */,
 				E2DDE3FA1D98C9570084D6B8 /* AppDelegate.swift in Sources */,
+				E28FCAD71D99A0A300A17875 /* SingInSettingScrollViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -503,6 +535,7 @@
 				E2DDE4201D98C9570084D6B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E2DDE4211D98C9570084D6B8 /* Build configuration list for PBXNativeTarget "DropBoxtestTests" */ = {
 			isa = XCConfigurationList;
@@ -511,6 +544,7 @@
 				E2DDE4231D98C9570084D6B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E2DDE4241D98C9570084D6B8 /* Build configuration list for PBXNativeTarget "DropBoxtestUITests" */ = {
 			isa = XCConfigurationList;
@@ -519,6 +553,7 @@
 				E2DDE4261D98C9570084D6B8 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
